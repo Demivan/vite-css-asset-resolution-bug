@@ -1,0 +1,6 @@
+{
+  "name": "app",
+  "dependencies": {
+    "@fontsource/roboto-flex": "^5.1.0"
+  }
+}
